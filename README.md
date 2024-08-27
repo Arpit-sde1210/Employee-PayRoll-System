@@ -1,1 +1,2 @@
 # Employee-PayRoll-System
+The Employee Payroll System is a Java-based application designed to manage employee data and calculate payroll efficiently. This project leverages Object-Oriented Programming (OOP) principles and various data structures to create a robust and scalable system. The system is capable of handling various employee types, calculating salaries based on different pay structures, and storing employee records securely.
